@@ -7,7 +7,7 @@ A Rasa-powered chatbot that handles customer inquiries for both ecommerce and ba
 ### Ecommerce Support
 - Order status tracking
 - Product information lookup
-- Return and refund assistanc
+- Return and refund assistance
 - Shipping inquiries
 - Payment issue resolution
 
