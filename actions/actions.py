@@ -4,7 +4,7 @@ from rasa_sdk.executor import CollectingDispatcher
 from rasa_sdk.events import SlotSet
 import requests
 import json
-from datetime import datetime, timedelta //hello//
+from datetime import datetime, timedelta 
 import random
 
 class ActionEcommerceOrderLookup(Action):
