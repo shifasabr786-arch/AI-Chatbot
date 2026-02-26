@@ -1,5 +1,5 @@
 # Multi-Branch Customer Service Chatbot
-new
+
 A Rasa-powered chatbot that handles customer inquiries for both ecommerce and banking services. This chatbot can seamlessly switch between different business domains and provide specialized support for each.
 
 ## Features
